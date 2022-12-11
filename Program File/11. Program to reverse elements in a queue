@@ -51,3 +51,32 @@ void main()
 	print();
 	
 }
+
+
+
+
+
+Output:-
+Enter the size of Queue 5
+
+Enter the data for Queue 
+6
+7
+3
+2
+8
+
+Queue which you have entered:-
+6
+7
+3
+2
+8
+Queue after reversing:-
+8
+2
+3
+7
+6
+
+
